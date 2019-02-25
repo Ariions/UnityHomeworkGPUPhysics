@@ -1,0 +1,46 @@
+Base path: C:/Program Files/2018.3/2018.3.2f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4594 outsize=4593 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Physics.compute(11): syntax error: unexpected token '}'
+  api=4 insize=4593 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4580 outsize=4579 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4579 outsize=3341 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4601 outsize=4600 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Physics.compute(123): syntax error: unexpected token 'f'
+  api=4 insize=4600 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4602 outsize=4601 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Physics.compute(123): syntax error: unexpected token 'f'
+  api=4 insize=4601 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4604 outsize=4603 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4603 outsize=3341 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4701 outsize=4700 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4700 outsize=3409 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
